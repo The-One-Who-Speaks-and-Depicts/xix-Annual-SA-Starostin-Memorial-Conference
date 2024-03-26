@@ -1,0 +1,509 @@
+l1,l2,word1,word2,delimiter,metrics
+Govor Lužnice,Govor Kuča,krv,krv,0.66,0.0
+Govor Lužnice,Govor Kuča,kos,kos,0.66,0.0
+Govor Lužnice,Govor Kuča,koska,kos,0.66,0.4
+Govor Lužnice,Govor Kuča,koʧina,kos,0.66,0.6666666666666666
+Govor Lužnice,Govor Kuča,koʃʧina,kos,0.66,0.7142857142857143
+Govor Lužnice,Govor Kuča,grudi,grudi,0.66,0.0
+Govor Lužnice,Govor Kuča,grudi,ɲedra,0.66,1.0
+Govor Lužnice,Govor Kuča,grudi,prsi,0.66,0.6
+Govor Lužnice,Govor Kuča,grudi,sisa,0.66,1.0
+Govor Lužnice,Govor Kuča,pazuka,grudi,0.66,0.8333333333333334
+Govor Lužnice,Govor Kuča,pazuka,ɲedra,0.66,0.8333333333333334
+Govor Lužnice,Govor Kuča,pazuka,prsi,0.66,0.8333333333333334
+Govor Lužnice,Govor Kuča,pazuka,sisa,0.66,0.8333333333333334
+Govor Lužnice,Govor Kuča,siska,grudi,0.66,1.0
+Govor Lužnice,Govor Kuča,siska,ɲedra,0.66,0.8
+Govor Lužnice,Govor Kuča,siska,prsi,0.66,0.8
+Govor Lužnice,Govor Kuča,siska,sisa,0.66,0.2
+Govor Lužnice,Govor Kuča,dojde,doj,0.66,0.4
+Govor Lužnice,Govor Kuča,dojde,dodit,0.66,0.6
+Govor Lužnice,Govor Kuča,doodi,doj,0.66,0.6
+Govor Lužnice,Govor Kuča,doodi,dodit,0.66,0.4
+Govor Lužnice,Govor Kuča,umira,umirat,0.66,0.16666666666666666
+Govor Lužnice,Govor Kuča,umira,umrijet,0.66,0.5714285714285714
+Govor Lužnice,Govor Kuča,umre,umirat,0.66,0.5
+Govor Lužnice,Govor Kuča,umre,umrijet,0.66,0.42857142857142855
+Govor Lužnice,Govor Kuča,kuʧe,kuʧak,0.66,0.4
+Govor Lužnice,Govor Kuča,kuʧe,pas,0.66,1.0
+Govor Lužnice,Govor Kuča,pseto,kuʧak,0.66,1.0
+Govor Lužnice,Govor Kuča,pseto,pas,0.66,0.8
+Govor Lužnice,Govor Kuča,pʦeto,kuʧak,0.66,1.0
+Govor Lužnice,Govor Kuča,pʦeto,pas,0.66,0.8
+Govor Lužnice,Govor Kuča,pije,pit,0.66,0.5
+Govor Lužnice,Govor Kuča,pije,popit,0.66,0.8
+Govor Lužnice,Govor Kuča,popije,pit,0.66,0.6666666666666666
+Govor Lužnice,Govor Kuča,popije,popit,0.66,0.3333333333333333
+Govor Lužnice,Govor Kuča,uo,uvo,0.66,0.3333333333333333
+Govor Lužnice,Govor Kuča,uo,uho,0.66,0.3333333333333333
+Govor Lužnice,Govor Kuča,oko,oko,0.66,0.0
+Govor Lužnice,Govor Kuča,ogaɲ,ogaɲ,0.66,0.0
+Govor Lužnice,Govor Kuča,ogaɲ,vatra,0.66,1.0
+Govor Lužnice,Govor Kuča,riba,riba,0.66,0.0
+Govor Lužnice,Govor Kuča,pun,pun,0.66,0.0
+Govor Lužnice,Govor Kuča,ruka,ruka,0.66,0.0
+Govor Lužnice,Govor Kuča,ʧuje,ʧunut,0.66,0.6
+Govor Lužnice,Govor Kuča,ʧuje,ʧut,0.66,0.5
+Govor Lužnice,Govor Kuča,rog,rog,0.66,0.0
+Govor Lužnice,Govor Kuča,ja,ja,0.66,0.0
+Govor Lužnice,Govor Kuča,koleno,koleno,0.66,0.0
+Govor Lužnice,Govor Kuča,ʤigeriʦa,utrobiʦa,0.66,0.625
+Govor Lužnice,Govor Kuča,ʤigeriʦa,ʦrnа utrobiʦa,0.66,0.6923076923076923
+Govor Lužnice,Govor Kuča,ʤiʥeriʦa,utrobiʦa,0.66,0.625
+Govor Lužnice,Govor Kuča,ʤiʥeriʦa,ʦrnа utrobiʦa,0.66,0.6923076923076923
+Govor Lužnice,Govor Kuča,ʥiʤeriʦa,utrobiʦa,0.66,0.625
+Govor Lužnice,Govor Kuča,ʥiʤeriʦa,ʦrnа utrobiʦa,0.66,0.6923076923076923
+Govor Lužnice,Govor Kuča,drob,utrobiʦa,0.66,0.625
+Govor Lužnice,Govor Kuča,drob,ʦrnа utrobiʦa,0.66,0.7692307692307693
+Govor Lužnice,Govor Kuča,ʦrni drob,utrobiʦa,0.66,1.0
+Govor Lužnice,Govor Kuča,ʦrni drob,ʦrnа utrobiʦa,0.66,0.46153846153846156
+Govor Lužnice,Govor Kuča,gora,planina,0.66,0.8571428571428571
+Govor Lužnice,Govor Kuča,planina,planina,0.66,0.0
+Govor Lužnice,Govor Kuča,ime,ime,0.66,0.0
+Govor Lužnice,Govor Kuča,nov,nov,0.66,0.0
+Govor Lužnice,Govor Kuča,noʧ,noj,0.66,0.3333333333333333
+Govor Lužnice,Govor Kuča,nos,nos,0.66,0.0
+Govor Lužnice,Govor Kuča,jedən,jedan,0.66,0.2
+Govor Lužnice,Govor Kuča,put,put,0.66,0.0
+Govor Lužnice,Govor Kuča,ʧovek,ʧek,0.66,0.4
+Govor Lužnice,Govor Kuča,ʧovek,ʧoek,0.66,0.2
+Govor Lužnice,Govor Kuča,vidi,viʥet,0.66,0.6
+Govor Lužnice,Govor Kuča,koʒa,ʧapra,0.66,0.8
+Govor Lužnice,Govor Kuča,koʒa,koʒa,0.66,0.0
+Govor Lužnice,Govor Kuča,zvezda,zvijezda,0.66,0.25
+Govor Lužnice,Govor Kuča,kamik,kami,0.66,0.2
+Govor Lužnice,Govor Kuča,kamik,krʃ,0.66,0.8
+Govor Lužnice,Govor Kuča,slnʦe,sunʦe,0.66,0.2
+Govor Lužnice,Govor Kuča,jezik,jezik,0.66,0.0
+Govor Lužnice,Govor Kuča,zub,zub,0.66,0.0
+Govor Lužnice,Govor Kuča,drvo,drijevo,0.66,0.42857142857142855
+Govor Lužnice,Govor Kuča,drvo,drvo,0.66,0.0
+Govor Lužnice,Govor Kuča,dva,dva,0.66,0.0
+Govor Lužnice,Govor Kuča,voda,voda,0.66,0.0
+Govor Lužnice,Govor Kuča,mi,mi,0.66,0.0
+Govor Lužnice,Govor Kuča,ti,ti,0.66,0.0
+Govor Lužnice,Govor severne Metohije,krv,krv,0.66,0.0
+Govor Lužnice,Govor severne Metohije,kos,kos,0.66,0.0
+Govor Lužnice,Govor severne Metohije,koska,kos,0.66,0.4
+Govor Lužnice,Govor severne Metohije,koʧina,kos,0.66,0.6666666666666666
+Govor Lužnice,Govor severne Metohije,koʃʧina,kos,0.66,0.7142857142857143
+Govor Lužnice,Govor severne Metohije,grudi,grudi,0.66,0.0
+Govor Lužnice,Govor severne Metohije,grudi,ʥuks,0.66,0.8
+Govor Lužnice,Govor severne Metohije,grudi,prsi,0.66,0.6
+Govor Lužnice,Govor severne Metohije,grudi,sisa,0.66,1.0
+Govor Lužnice,Govor severne Metohije,pazuka,grudi,0.66,0.8333333333333334
+Govor Lužnice,Govor severne Metohije,pazuka,ʥuks,0.66,0.6666666666666666
+Govor Lužnice,Govor severne Metohije,pazuka,prsi,0.66,0.8333333333333334
+Govor Lužnice,Govor severne Metohije,pazuka,sisa,0.66,0.8333333333333334
+Govor Lužnice,Govor severne Metohije,siska,grudi,0.66,1.0
+Govor Lužnice,Govor severne Metohije,siska,ʥuks,0.66,0.8
+Govor Lužnice,Govor severne Metohije,siska,prsi,0.66,0.8
+Govor Lužnice,Govor severne Metohije,siska,sisa,0.66,0.2
+Govor Lužnice,Govor severne Metohije,dojde,doʨ,0.66,0.6
+Govor Lužnice,Govor severne Metohije,dojde,doj,0.66,0.4
+Govor Lužnice,Govor severne Metohije,dojde,dojti,0.66,0.4
+Govor Lužnice,Govor severne Metohije,dojde,dolazit,0.66,0.7142857142857143
+Govor Lužnice,Govor severne Metohije,doodi,doʨ,0.66,0.6
+Govor Lužnice,Govor severne Metohije,doodi,doj,0.66,0.6
+Govor Lužnice,Govor severne Metohije,doodi,dojti,0.66,0.4
+Govor Lužnice,Govor severne Metohije,doodi,dolazit,0.66,0.5714285714285714
+Govor Lužnice,Govor severne Metohije,umira,umret,0.66,0.6
+Govor Lužnice,Govor severne Metohije,umre,umret,0.66,0.2
+Govor Lužnice,Govor severne Metohije,kuʧe,ker,0.66,0.75
+Govor Lužnice,Govor severne Metohije,kuʧe,pas,0.66,1.0
+Govor Lužnice,Govor severne Metohije,pseto,ker,0.66,0.8
+Govor Lužnice,Govor severne Metohije,pseto,pas,0.66,0.8
+Govor Lužnice,Govor severne Metohije,pʦeto,ker,0.66,0.8
+Govor Lužnice,Govor severne Metohije,pʦeto,pas,0.66,0.8
+Govor Lužnice,Govor severne Metohije,pije,pit,0.66,0.5
+Govor Lužnice,Govor severne Metohije,pije,popit,0.66,0.8
+Govor Lužnice,Govor severne Metohije,popije,pit,0.66,0.6666666666666666
+Govor Lužnice,Govor severne Metohije,popije,popit,0.66,0.3333333333333333
+Govor Lužnice,Govor severne Metohije,uo,uvo,0.66,0.3333333333333333
+Govor Lužnice,Govor severne Metohije,oko,oko,0.66,0.0
+Govor Lužnice,Govor severne Metohije,ogaɲ,vatra,0.66,1.0
+Govor Lužnice,Govor severne Metohije,ogaɲ,ogaɲ,0.66,0.0
+Govor Lužnice,Govor severne Metohije,riba,riba,0.66,0.0
+Govor Lužnice,Govor severne Metohije,pun,pun,0.66,0.0
+Govor Lužnice,Govor severne Metohije,ruka,ruka,0.66,0.0
+Govor Lužnice,Govor severne Metohije,ʧuje,ʧut,0.66,0.5
+Govor Lužnice,Govor severne Metohije,rog,rog,0.66,0.0
+Govor Lužnice,Govor severne Metohije,ja,ja,0.66,0.0
+Govor Lužnice,Govor severne Metohije,koleno,koleno,0.66,0.0
+Govor Lužnice,Govor severne Metohije,ʤigeriʦa,ʤigeriʦa,0.66,0.0
+Govor Lužnice,Govor severne Metohije,ʤiʥeriʦa,ʤigeriʦa,0.66,0.125
+Govor Lužnice,Govor severne Metohije,ʥiʤeriʦa,ʤigeriʦa,0.66,0.25
+Govor Lužnice,Govor severne Metohije,drob,ʤigeriʦa,0.66,0.875
+Govor Lužnice,Govor severne Metohije,ʦrni drob,ʤigeriʦa,0.66,0.8888888888888888
+Govor Lužnice,Govor severne Metohije,gora,planina,0.66,0.8571428571428571
+Govor Lužnice,Govor severne Metohije,planina,planina,0.66,0.0
+Govor Lužnice,Govor severne Metohije,ime,ime,0.66,0.0
+Govor Lužnice,Govor severne Metohije,nov,nov,0.66,0.0
+Govor Lužnice,Govor severne Metohije,noʧ,noj,0.66,0.3333333333333333
+Govor Lužnice,Govor severne Metohije,noʧ,noʨ ,0.66,0.5
+Govor Lužnice,Govor severne Metohije,nos,nos,0.66,0.0
+Govor Lužnice,Govor severne Metohije,jedən,jedan,0.66,0.2
+Govor Lužnice,Govor severne Metohije,put,put,0.66,0.0
+Govor Lužnice,Govor severne Metohije,ʧovek,ʧovek,0.66,0.0
+Govor Lužnice,Govor severne Metohije,vidi,videt,0.66,0.4
+Govor Lužnice,Govor severne Metohije,koʒa,ʧapra,0.66,0.8
+Govor Lužnice,Govor severne Metohije,koʒa,koʒa ,0.66,0.2
+Govor Lužnice,Govor severne Metohije,zvezda,zvezda,0.66,0.0
+Govor Lužnice,Govor severne Metohije,kamik,kamen,0.66,0.4
+Govor Lužnice,Govor severne Metohije,slnʦe,sunʦe,0.66,0.2
+Govor Lužnice,Govor severne Metohije,jezik,jezik,0.66,0.0
+Govor Lužnice,Govor severne Metohije,zub,zub,0.66,0.0
+Govor Lužnice,Govor severne Metohije,drvo,drvo,0.66,0.0
+Govor Lužnice,Govor severne Metohije,dva,dva,0.66,0.0
+Govor Lužnice,Govor severne Metohije,voda,vada,0.66,0.25
+Govor Lužnice,Govor severne Metohije,voda,voda,0.66,0.0
+Govor Lužnice,Govor severne Metohije,mi,mi,0.66,0.0
+Govor Lužnice,Govor severne Metohije,ti,ti,0.66,0.0
+Govor Lužnice,Govor Hvara,krv,kor,0.66,0.6666666666666666
+Govor Lužnice,Govor Hvara,krv,korv,0.66,0.25
+Govor Lužnice,Govor Hvara,kos,kost,0.66,0.25
+Govor Lužnice,Govor Hvara,koska,kost,0.66,0.4
+Govor Lužnice,Govor Hvara,koʧina,kost,0.66,0.6666666666666666
+Govor Lužnice,Govor Hvara,koʃʧina,kost,0.66,0.7142857142857143
+Govor Lužnice,Govor Hvara,grudi,nidra,0.66,1.0
+Govor Lužnice,Govor Hvara,grudi,parsi,0.66,0.8
+Govor Lužnice,Govor Hvara,grudi,sisa,0.66,1.0
+Govor Lužnice,Govor Hvara,pazuka,nidra,0.66,0.8333333333333334
+Govor Lužnice,Govor Hvara,pazuka,parsi,0.66,0.6666666666666666
+Govor Lužnice,Govor Hvara,pazuka,sisa,0.66,0.8333333333333334
+Govor Lužnice,Govor Hvara,siska,nidra,0.66,0.6
+Govor Lužnice,Govor Hvara,siska,parsi,0.66,1.0
+Govor Lužnice,Govor Hvara,siska,sisa,0.66,0.2
+Govor Lužnice,Govor Hvara,dojde,arivat,0.66,1.0
+Govor Lužnice,Govor Hvara,dojde,arivovat,0.66,0.875
+Govor Lužnice,Govor Hvara,dojde,doʨ,0.66,0.6
+Govor Lužnice,Govor Hvara,doodi,arivat,0.66,1.0
+Govor Lužnice,Govor Hvara,doodi,arivovat,0.66,0.875
+Govor Lužnice,Govor Hvara,doodi,doʨ,0.66,0.6
+Govor Lužnice,Govor Hvara,umira,partivat,0.66,0.75
+Govor Lužnice,Govor Hvara,umira,portit,0.66,1.0
+Govor Lužnice,Govor Hvara,umira,umirot,0.66,0.3333333333333333
+Govor Lužnice,Govor Hvara,umira,umrit,0.66,0.6
+Govor Lužnice,Govor Hvara,umre,partivat,0.66,0.875
+Govor Lužnice,Govor Hvara,umre,portit,0.66,0.8333333333333334
+Govor Lužnice,Govor Hvara,umre,umirot,0.66,0.5
+Govor Lužnice,Govor Hvara,umre,umrit,0.66,0.4
+Govor Lužnice,Govor Hvara,kuʧe,kuʦak,0.66,0.6
+Govor Lužnice,Govor Hvara,kuʧe,pas,0.66,1.0
+Govor Lužnice,Govor Hvara,kuʧe,psetina,0.66,1.0
+Govor Lužnice,Govor Hvara,kuʧe,pasiʨ,0.66,1.0
+Govor Lužnice,Govor Hvara,pseto,kuʦak,0.66,1.0
+Govor Lužnice,Govor Hvara,pseto,pas,0.66,0.8
+Govor Lužnice,Govor Hvara,pseto,psetina,0.66,0.42857142857142855
+Govor Lužnice,Govor Hvara,pseto,pasiʨ,0.66,0.8
+Govor Lužnice,Govor Hvara,pʦeto,kuʦak,0.66,1.0
+Govor Lužnice,Govor Hvara,pʦeto,pas,0.66,0.8
+Govor Lužnice,Govor Hvara,pʦeto,psetina,0.66,0.5714285714285714
+Govor Lužnice,Govor Hvara,pʦeto,pasiʨ,0.66,0.8
+Govor Lužnice,Govor Hvara,pije,pit,0.66,0.5
+Govor Lužnice,Govor Hvara,pije,popit,0.66,0.8
+Govor Lužnice,Govor Hvara,popije,pit,0.66,0.6666666666666666
+Govor Lužnice,Govor Hvara,popije,popit,0.66,0.3333333333333333
+Govor Lužnice,Govor Hvara,uo,uho,0.66,0.3333333333333333
+Govor Lužnice,Govor Hvara,oko,oko,0.66,0.0
+Govor Lužnice,Govor Hvara,ogaɲ,ogaɲ,0.66,0.0
+Govor Lužnice,Govor Hvara,ogaɲ,ogoɲ,0.66,0.25
+Govor Lužnice,Govor Hvara,riba,riba,0.66,0.0
+Govor Lužnice,Govor Hvara,pun,pun,0.66,0.0
+Govor Lužnice,Govor Hvara,ruka,ruka,0.66,0.0
+Govor Lužnice,Govor Hvara,ʧuje,ʦut,0.66,0.75
+Govor Lužnice,Govor Hvara,rog,rog,0.66,0.0
+Govor Lužnice,Govor Hvara,ja,jo,0.66,0.5
+Govor Lužnice,Govor Hvara,koleno,kolino,0.66,0.16666666666666666
+Govor Lužnice,Govor Hvara,ʤigeriʦa,jotra,0.66,0.75
+Govor Lužnice,Govor Hvara,ʤigeriʦa,ʒigeriʦa,0.66,0.125
+Govor Lužnice,Govor Hvara,ʤiʥeriʦa,jotra,0.66,0.75
+Govor Lužnice,Govor Hvara,ʤiʥeriʦa,ʒigeriʦa,0.66,0.25
+Govor Lužnice,Govor Hvara,ʥiʤeriʦa,jotra,0.66,0.75
+Govor Lužnice,Govor Hvara,ʥiʤeriʦa,ʒigeriʦa,0.66,0.25
+Govor Lužnice,Govor Hvara,drob,jotra,0.66,1.0
+Govor Lužnice,Govor Hvara,drob,ʒigeriʦa,0.66,0.875
+Govor Lužnice,Govor Hvara,ʦrni drob,jotra,0.66,0.8888888888888888
+Govor Lužnice,Govor Hvara,ʦrni drob,ʒigeriʦa,0.66,0.8888888888888888
+Govor Lužnice,Govor Hvara,gora,muntaɲa,0.66,0.8571428571428571
+Govor Lužnice,Govor Hvara,planina,muntaɲa,0.66,0.8571428571428571
+Govor Lužnice,Govor Hvara,ime,ime,0.66,0.0
+Govor Lužnice,Govor Hvara,nov,nov,0.66,0.0
+Govor Lužnice,Govor Hvara,noʧ,noʨ,0.66,0.3333333333333333
+Govor Lužnice,Govor Hvara,nos,nos,0.66,0.0
+Govor Lužnice,Govor Hvara,jedən,jedon,0.66,0.2
+Govor Lužnice,Govor Hvara,put,put,0.66,0.0
+Govor Lužnice,Govor Hvara,ʧovek,ʦovik,0.66,0.4
+Govor Lužnice,Govor Hvara,vidi,vidit,0.66,0.2
+Govor Lužnice,Govor Hvara,koʒa,koʒa,0.66,0.0
+Govor Lužnice,Govor Hvara,zvezda,zvizda,0.66,0.16666666666666666
+Govor Lužnice,Govor Hvara,zvezda,stela,0.66,0.6666666666666666
+Govor Lužnice,Govor Hvara,kamik,fogol,0.66,1.0
+Govor Lužnice,Govor Hvara,kamik,kamik,0.66,0.0
+Govor Lužnice,Govor Hvara,kamik,stina,0.66,1.0
+Govor Lužnice,Govor Hvara,slnʦe,sunʦe,0.66,0.2
+Govor Lužnice,Govor Hvara,jezik,jazik,0.66,0.2
+Govor Lužnice,Govor Hvara,zub,zub,0.66,0.0
+Govor Lužnice,Govor Hvara,drvo,darva,0.66,0.4
+Govor Lužnice,Govor Hvara,drvo,drivo,0.66,0.2
+Govor Lužnice,Govor Hvara,dva,dvo,0.66,0.3333333333333333
+Govor Lužnice,Govor Hvara,voda,voda,0.66,0.0
+Govor Lužnice,Govor Hvara,mi,mi,0.66,0.0
+Govor Lužnice,Govor Hvara,ti,ti,0.66,0.0
+Govor Kuča,Govor severne Metohije,krv,krv,0.66,0.0
+Govor Kuča,Govor severne Metohije,kos,kos,0.66,0.0
+Govor Kuča,Govor severne Metohije,grudi,grudi,0.66,0.0
+Govor Kuča,Govor severne Metohije,grudi,ʥuks,0.66,0.8
+Govor Kuča,Govor severne Metohije,grudi,prsi,0.66,0.6
+Govor Kuča,Govor severne Metohije,grudi,sisa,0.66,1.0
+Govor Kuča,Govor severne Metohije,ɲedra,grudi,0.66,1.0
+Govor Kuča,Govor severne Metohije,ɲedra,ʥuks,0.66,1.0
+Govor Kuča,Govor severne Metohije,ɲedra,prsi,0.66,1.0
+Govor Kuča,Govor severne Metohije,ɲedra,sisa,0.66,0.8
+Govor Kuča,Govor severne Metohije,prsi,grudi,0.66,0.6
+Govor Kuča,Govor severne Metohije,prsi,ʥuks,0.66,1.0
+Govor Kuča,Govor severne Metohije,prsi,prsi,0.66,0.0
+Govor Kuča,Govor severne Metohije,prsi,sisa,0.66,0.75
+Govor Kuča,Govor severne Metohije,sisa,grudi,0.66,1.0
+Govor Kuča,Govor severne Metohije,sisa,ʥuks,0.66,1.0
+Govor Kuča,Govor severne Metohije,sisa,prsi,0.66,0.75
+Govor Kuča,Govor severne Metohije,sisa,sisa,0.66,0.0
+Govor Kuča,Govor severne Metohije,doj,doʨ,0.66,0.3333333333333333
+Govor Kuča,Govor severne Metohije,doj,doj,0.66,0.0
+Govor Kuča,Govor severne Metohije,doj,dojti,0.66,0.4
+Govor Kuča,Govor severne Metohije,doj,dolazit,0.66,0.7142857142857143
+Govor Kuča,Govor severne Metohije,dodit,doʨ,0.66,0.6
+Govor Kuča,Govor severne Metohije,dodit,doj,0.66,0.6
+Govor Kuča,Govor severne Metohije,dodit,dojti,0.66,0.6
+Govor Kuča,Govor severne Metohije,dodit,dolazit,0.66,0.42857142857142855
+Govor Kuča,Govor severne Metohije,umirat,umret,0.66,0.3333333333333333
+Govor Kuča,Govor severne Metohije,umrijet,umret,0.66,0.2857142857142857
+Govor Kuča,Govor severne Metohije,kuʧak,ker,0.66,0.8
+Govor Kuča,Govor severne Metohije,kuʧak,pas,0.66,0.8
+Govor Kuča,Govor severne Metohije,pas,ker,0.66,1.0
+Govor Kuča,Govor severne Metohije,pas,pas,0.66,0.0
+Govor Kuča,Govor severne Metohije,pit,pit,0.66,0.0
+Govor Kuča,Govor severne Metohije,pit,popit,0.66,0.4
+Govor Kuča,Govor severne Metohije,popit,pit,0.66,0.4
+Govor Kuča,Govor severne Metohije,popit,popit,0.66,0.0
+Govor Kuča,Govor severne Metohije,uvo,uvo,0.66,0.0
+Govor Kuča,Govor severne Metohije,uho,uvo,0.66,0.3333333333333333
+Govor Kuča,Govor severne Metohije,oko,oko,0.66,0.0
+Govor Kuča,Govor severne Metohije,ogaɲ,vatra,0.66,1.0
+Govor Kuča,Govor severne Metohije,ogaɲ,ogaɲ,0.66,0.0
+Govor Kuča,Govor severne Metohije,vatra,vatra,0.66,0.0
+Govor Kuča,Govor severne Metohije,vatra,ogaɲ,0.66,1.0
+Govor Kuča,Govor severne Metohije,riba,riba,0.66,0.0
+Govor Kuča,Govor severne Metohije,pun,pun,0.66,0.0
+Govor Kuča,Govor severne Metohije,ruka,ruka,0.66,0.0
+Govor Kuča,Govor severne Metohije,ʧunut,ʧut,0.66,0.4
+Govor Kuča,Govor severne Metohije,ʧut,ʧut,0.66,0.0
+Govor Kuča,Govor severne Metohije,rog,rog,0.66,0.0
+Govor Kuča,Govor severne Metohije,ja,ja,0.66,0.0
+Govor Kuča,Govor severne Metohije,koleno,koleno,0.66,0.0
+Govor Kuča,Govor severne Metohije,utrobiʦa,ʤigeriʦa,0.66,0.625
+Govor Kuča,Govor severne Metohije,ʦrnа utrobiʦa,ʤigeriʦa,0.66,0.6923076923076923
+Govor Kuča,Govor severne Metohije,planina,planina,0.66,0.0
+Govor Kuča,Govor severne Metohije,ime,ime,0.66,0.0
+Govor Kuča,Govor severne Metohije,nov,nov,0.66,0.0
+Govor Kuča,Govor severne Metohije,noj,noj,0.66,0.0
+Govor Kuča,Govor severne Metohije,noj,noʨ ,0.66,0.5
+Govor Kuča,Govor severne Metohije,nos,nos,0.66,0.0
+Govor Kuča,Govor severne Metohije,jedan,jedan,0.66,0.0
+Govor Kuča,Govor severne Metohije,put,put,0.66,0.0
+Govor Kuča,Govor severne Metohije,ʧek,ʧovek,0.66,0.4
+Govor Kuča,Govor severne Metohije,ʧoek,ʧovek,0.66,0.2
+Govor Kuča,Govor severne Metohije,viʥet,videt,0.66,0.2
+Govor Kuča,Govor severne Metohije,ʧapra,ʧapra,0.66,0.0
+Govor Kuča,Govor severne Metohije,ʧapra,koʒa ,0.66,1.0
+Govor Kuča,Govor severne Metohije,koʒa,ʧapra,0.66,0.8
+Govor Kuča,Govor severne Metohije,koʒa,koʒa ,0.66,0.2
+Govor Kuča,Govor severne Metohije,zvijezda,zvezda,0.66,0.25
+Govor Kuča,Govor severne Metohije,kami,kamen,0.66,0.4
+Govor Kuča,Govor severne Metohije,krʃ,kamen,0.66,0.8
+Govor Kuča,Govor severne Metohije,sunʦe,sunʦe,0.66,0.0
+Govor Kuča,Govor severne Metohije,jezik,jezik,0.66,0.0
+Govor Kuča,Govor severne Metohije,zub,zub,0.66,0.0
+Govor Kuča,Govor severne Metohije,drijevo,drvo,0.66,0.42857142857142855
+Govor Kuča,Govor severne Metohije,drvo,drvo,0.66,0.0
+Govor Kuča,Govor severne Metohije,dva,dva,0.66,0.0
+Govor Kuča,Govor severne Metohije,voda,vada,0.66,0.25
+Govor Kuča,Govor severne Metohije,voda,voda,0.66,0.0
+Govor Kuča,Govor severne Metohije,mi,mi,0.66,0.0
+Govor Kuča,Govor severne Metohije,ti,ti,0.66,0.0
+Govor Kuča,Govor Hvara,krv,kor,0.66,0.6666666666666666
+Govor Kuča,Govor Hvara,krv,korv,0.66,0.25
+Govor Kuča,Govor Hvara,kos,kost,0.66,0.25
+Govor Kuča,Govor Hvara,grudi,nidra,0.66,1.0
+Govor Kuča,Govor Hvara,grudi,parsi,0.66,0.8
+Govor Kuča,Govor Hvara,grudi,sisa,0.66,1.0
+Govor Kuča,Govor Hvara,ɲedra,nidra,0.66,0.4
+Govor Kuča,Govor Hvara,ɲedra,parsi,0.66,1.0
+Govor Kuča,Govor Hvara,ɲedra,sisa,0.66,0.8
+Govor Kuča,Govor Hvara,prsi,nidra,0.66,1.0
+Govor Kuča,Govor Hvara,prsi,parsi,0.66,0.2
+Govor Kuča,Govor Hvara,prsi,sisa,0.66,0.75
+Govor Kuča,Govor Hvara,sisa,nidra,0.66,0.6
+Govor Kuča,Govor Hvara,sisa,parsi,0.66,0.8
+Govor Kuča,Govor Hvara,sisa,sisa,0.66,0.0
+Govor Kuča,Govor Hvara,doj,arivat,0.66,1.0
+Govor Kuča,Govor Hvara,doj,arivovat,0.66,0.875
+Govor Kuča,Govor Hvara,doj,doʨ,0.66,0.3333333333333333
+Govor Kuča,Govor Hvara,dodit,arivat,0.66,0.8333333333333334
+Govor Kuča,Govor Hvara,dodit,arivovat,0.66,0.75
+Govor Kuča,Govor Hvara,dodit,doʨ,0.66,0.6
+Govor Kuča,Govor Hvara,umirat,partivat,0.66,0.625
+Govor Kuča,Govor Hvara,umirat,portit,0.66,0.8333333333333334
+Govor Kuča,Govor Hvara,umirat,umirot,0.66,0.16666666666666666
+Govor Kuča,Govor Hvara,umirat,umrit,0.66,0.3333333333333333
+Govor Kuča,Govor Hvara,umrijet,partivat,0.66,0.625
+Govor Kuča,Govor Hvara,umrijet,portit,0.66,0.7142857142857143
+Govor Kuča,Govor Hvara,umrijet,umirot,0.66,0.42857142857142855
+Govor Kuča,Govor Hvara,umrijet,umrit,0.66,0.2857142857142857
+Govor Kuča,Govor Hvara,kuʧak,kuʦak,0.66,0.2
+Govor Kuča,Govor Hvara,kuʧak,pas,0.66,0.8
+Govor Kuča,Govor Hvara,kuʧak,psetina,0.66,1.0
+Govor Kuča,Govor Hvara,kuʧak,pasiʨ,0.66,1.0
+Govor Kuča,Govor Hvara,pas,kuʦak,0.66,0.8
+Govor Kuča,Govor Hvara,pas,pas,0.66,0.0
+Govor Kuča,Govor Hvara,pas,psetina,0.66,0.8571428571428571
+Govor Kuča,Govor Hvara,pas,pasiʨ,0.66,0.4
+Govor Kuča,Govor Hvara,pit,pit,0.66,0.0
+Govor Kuča,Govor Hvara,pit,popit,0.66,0.4
+Govor Kuča,Govor Hvara,popit,pit,0.66,0.4
+Govor Kuča,Govor Hvara,popit,popit,0.66,0.0
+Govor Kuča,Govor Hvara,uvo,uho,0.66,0.3333333333333333
+Govor Kuča,Govor Hvara,uho,uho,0.66,0.0
+Govor Kuča,Govor Hvara,oko,oko,0.66,0.0
+Govor Kuča,Govor Hvara,ogaɲ,ogaɲ,0.66,0.0
+Govor Kuča,Govor Hvara,ogaɲ,ogoɲ,0.66,0.25
+Govor Kuča,Govor Hvara,vatra,ogaɲ,0.66,1.0
+Govor Kuča,Govor Hvara,vatra,ogoɲ,0.66,1.0
+Govor Kuča,Govor Hvara,riba,riba,0.66,0.0
+Govor Kuča,Govor Hvara,pun,pun,0.66,0.0
+Govor Kuča,Govor Hvara,ruka,ruka,0.66,0.0
+Govor Kuča,Govor Hvara,ʧunut,ʦut,0.66,0.6
+Govor Kuča,Govor Hvara,ʧut,ʦut,0.66,0.3333333333333333
+Govor Kuča,Govor Hvara,rog,rog,0.66,0.0
+Govor Kuča,Govor Hvara,ja,jo,0.66,0.5
+Govor Kuča,Govor Hvara,koleno,kolino,0.66,0.16666666666666666
+Govor Kuča,Govor Hvara,utrobiʦa,jotra,0.66,0.75
+Govor Kuča,Govor Hvara,utrobiʦa,ʒigeriʦa,0.66,0.625
+Govor Kuča,Govor Hvara,ʦrnа utrobiʦa,jotra,0.66,0.7692307692307693
+Govor Kuča,Govor Hvara,ʦrnа utrobiʦa,ʒigeriʦa,0.66,0.6923076923076923
+Govor Kuča,Govor Hvara,planina,muntaɲa,0.66,0.8571428571428571
+Govor Kuča,Govor Hvara,ime,ime,0.66,0.0
+Govor Kuča,Govor Hvara,nov,nov,0.66,0.0
+Govor Kuča,Govor Hvara,noj,noʨ,0.66,0.3333333333333333
+Govor Kuča,Govor Hvara,nos,nos,0.66,0.0
+Govor Kuča,Govor Hvara,jedan,jedon,0.66,0.2
+Govor Kuča,Govor Hvara,put,put,0.66,0.0
+Govor Kuča,Govor Hvara,ʧek,ʦovik,0.66,0.8
+Govor Kuča,Govor Hvara,ʧoek,ʦovik,0.66,0.6
+Govor Kuča,Govor Hvara,viʥet,vidit,0.66,0.4
+Govor Kuča,Govor Hvara,ʧapra,koʒa,0.66,0.8
+Govor Kuča,Govor Hvara,koʒa,koʒa,0.66,0.0
+Govor Kuča,Govor Hvara,zvijezda,zvizda,0.66,0.25
+Govor Kuča,Govor Hvara,zvijezda,stela,0.66,0.75
+Govor Kuča,Govor Hvara,kami,fogol,0.66,1.0
+Govor Kuča,Govor Hvara,kami,kamik,0.66,0.2
+Govor Kuča,Govor Hvara,kami,stina,0.66,1.0
+Govor Kuča,Govor Hvara,krʃ,fogol,0.66,1.0
+Govor Kuča,Govor Hvara,krʃ,kamik,0.66,0.8
+Govor Kuča,Govor Hvara,krʃ,stina,0.66,1.0
+Govor Kuča,Govor Hvara,sunʦe,sunʦe,0.66,0.0
+Govor Kuča,Govor Hvara,jezik,jazik,0.66,0.2
+Govor Kuča,Govor Hvara,zub,zub,0.66,0.0
+Govor Kuča,Govor Hvara,drijevo,darva,0.66,0.7142857142857143
+Govor Kuča,Govor Hvara,drijevo,drivo,0.66,0.2857142857142857
+Govor Kuča,Govor Hvara,drvo,darva,0.66,0.4
+Govor Kuča,Govor Hvara,drvo,drivo,0.66,0.2
+Govor Kuča,Govor Hvara,dva,dvo,0.66,0.3333333333333333
+Govor Kuča,Govor Hvara,voda,voda,0.66,0.0
+Govor Kuča,Govor Hvara,mi,mi,0.66,0.0
+Govor Kuča,Govor Hvara,ti,ti,0.66,0.0
+Govor severne Metohije,Govor Hvara,krv,kor,0.66,0.6666666666666666
+Govor severne Metohije,Govor Hvara,krv,korv,0.66,0.25
+Govor severne Metohije,Govor Hvara,kos,kost,0.66,0.25
+Govor severne Metohije,Govor Hvara,grudi,nidra,0.66,1.0
+Govor severne Metohije,Govor Hvara,grudi,parsi,0.66,0.8
+Govor severne Metohije,Govor Hvara,grudi,sisa,0.66,1.0
+Govor severne Metohije,Govor Hvara,ʥuks,nidra,0.66,1.0
+Govor severne Metohije,Govor Hvara,ʥuks,parsi,0.66,0.8
+Govor severne Metohije,Govor Hvara,ʥuks,sisa,0.66,1.0
+Govor severne Metohije,Govor Hvara,prsi,nidra,0.66,1.0
+Govor severne Metohije,Govor Hvara,prsi,parsi,0.66,0.2
+Govor severne Metohije,Govor Hvara,prsi,sisa,0.66,0.75
+Govor severne Metohije,Govor Hvara,sisa,nidra,0.66,0.6
+Govor severne Metohije,Govor Hvara,sisa,parsi,0.66,0.8
+Govor severne Metohije,Govor Hvara,sisa,sisa,0.66,0.0
+Govor severne Metohije,Govor Hvara,doʨ,arivat,0.66,1.0
+Govor severne Metohije,Govor Hvara,doʨ,arivovat,0.66,0.875
+Govor severne Metohije,Govor Hvara,doʨ,doʨ,0.66,0.0
+Govor severne Metohije,Govor Hvara,doj,arivat,0.66,1.0
+Govor severne Metohije,Govor Hvara,doj,arivovat,0.66,0.875
+Govor severne Metohije,Govor Hvara,doj,doʨ,0.66,0.3333333333333333
+Govor severne Metohije,Govor Hvara,dojti,arivat,0.66,1.0
+Govor severne Metohije,Govor Hvara,dojti,arivovat,0.66,0.875
+Govor severne Metohije,Govor Hvara,dojti,doʨ,0.66,0.6
+Govor severne Metohije,Govor Hvara,dolazit,arivat,0.66,0.8571428571428571
+Govor severne Metohije,Govor Hvara,dolazit,arivovat,0.66,0.875
+Govor severne Metohije,Govor Hvara,dolazit,doʨ,0.66,0.7142857142857143
+Govor severne Metohije,Govor Hvara,umret,partivat,0.66,0.75
+Govor severne Metohije,Govor Hvara,umret,portit,0.66,0.6666666666666666
+Govor severne Metohije,Govor Hvara,umret,umirot,0.66,0.3333333333333333
+Govor severne Metohije,Govor Hvara,umret,umrit,0.66,0.2
+Govor severne Metohije,Govor Hvara,ker,kuʦak,0.66,0.8
+Govor severne Metohije,Govor Hvara,ker,pas,0.66,1.0
+Govor severne Metohije,Govor Hvara,ker,psetina,0.66,0.8571428571428571
+Govor severne Metohije,Govor Hvara,ker,pasiʨ,0.66,1.0
+Govor severne Metohije,Govor Hvara,pas,kuʦak,0.66,0.8
+Govor severne Metohije,Govor Hvara,pas,pas,0.66,0.0
+Govor severne Metohije,Govor Hvara,pas,psetina,0.66,0.8571428571428571
+Govor severne Metohije,Govor Hvara,pas,pasiʨ,0.66,0.4
+Govor severne Metohije,Govor Hvara,pit,pit,0.66,0.0
+Govor severne Metohije,Govor Hvara,pit,popit,0.66,0.4
+Govor severne Metohije,Govor Hvara,popit,pit,0.66,0.4
+Govor severne Metohije,Govor Hvara,popit,popit,0.66,0.0
+Govor severne Metohije,Govor Hvara,uvo,uho,0.66,0.3333333333333333
+Govor severne Metohije,Govor Hvara,oko,oko,0.66,0.0
+Govor severne Metohije,Govor Hvara,vatra,ogaɲ,0.66,1.0
+Govor severne Metohije,Govor Hvara,vatra,ogoɲ,0.66,1.0
+Govor severne Metohije,Govor Hvara,ogaɲ,ogaɲ,0.66,0.0
+Govor severne Metohije,Govor Hvara,ogaɲ,ogoɲ,0.66,0.25
+Govor severne Metohije,Govor Hvara,riba,riba,0.66,0.0
+Govor severne Metohije,Govor Hvara,pun,pun,0.66,0.0
+Govor severne Metohije,Govor Hvara,ruka,ruka,0.66,0.0
+Govor severne Metohije,Govor Hvara,ʧut,ʦut,0.66,0.3333333333333333
+Govor severne Metohije,Govor Hvara,rog,rog,0.66,0.0
+Govor severne Metohije,Govor Hvara,ja,jo,0.66,0.5
+Govor severne Metohije,Govor Hvara,koleno,kolino,0.66,0.16666666666666666
+Govor severne Metohije,Govor Hvara,ʤigeriʦa,jotra,0.66,0.75
+Govor severne Metohije,Govor Hvara,ʤigeriʦa,ʒigeriʦa,0.66,0.125
+Govor severne Metohije,Govor Hvara,planina,muntaɲa,0.66,0.8571428571428571
+Govor severne Metohije,Govor Hvara,ime,ime,0.66,0.0
+Govor severne Metohije,Govor Hvara,nov,nov,0.66,0.0
+Govor severne Metohije,Govor Hvara,noj,noʨ,0.66,0.3333333333333333
+Govor severne Metohije,Govor Hvara,noʨ ,noʨ,0.66,0.25
+Govor severne Metohije,Govor Hvara,nos,nos,0.66,0.0
+Govor severne Metohije,Govor Hvara,jedan,jedon,0.66,0.2
+Govor severne Metohije,Govor Hvara,put,put,0.66,0.0
+Govor severne Metohije,Govor Hvara,ʧovek,ʦovik,0.66,0.4
+Govor severne Metohije,Govor Hvara,videt,vidit,0.66,0.2
+Govor severne Metohije,Govor Hvara,ʧapra,koʒa,0.66,0.8
+Govor severne Metohije,Govor Hvara,koʒa ,koʒa,0.66,0.2
+Govor severne Metohije,Govor Hvara,zvezda,zvizda,0.66,0.16666666666666666
+Govor severne Metohije,Govor Hvara,zvezda,stela,0.66,0.6666666666666666
+Govor severne Metohije,Govor Hvara,kamen,fogol,0.66,1.0
+Govor severne Metohije,Govor Hvara,kamen,kamik,0.66,0.4
+Govor severne Metohije,Govor Hvara,kamen,stina,0.66,1.0
+Govor severne Metohije,Govor Hvara,sunʦe,sunʦe,0.66,0.0
+Govor severne Metohije,Govor Hvara,jezik,jazik,0.66,0.2
+Govor severne Metohije,Govor Hvara,zub,zub,0.66,0.0
+Govor severne Metohije,Govor Hvara,drvo,darva,0.66,0.4
+Govor severne Metohije,Govor Hvara,drvo,drivo,0.66,0.2
+Govor severne Metohije,Govor Hvara,dva,dvo,0.66,0.3333333333333333
+Govor severne Metohije,Govor Hvara,vada,voda,0.66,0.25
+Govor severne Metohije,Govor Hvara,voda,voda,0.66,0.0
+Govor severne Metohije,Govor Hvara,mi,mi,0.66,0.0
+Govor severne Metohije,Govor Hvara,ti,ti,0.66,0.0
