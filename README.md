@@ -1,4 +1,4 @@
-# XIX Annual Sergei Starostin Memorial Conference on Comparative-Historical Linguistics
+# Measuring the language distance between the lects with high degree of lexical variation (on the material of South Slavic lects)
 Code and materials for talk on XIX Annual Sergei Starostin Memorial Conference on Comparative-Historical Linguistics
 
 Data gathered by @ViaCossa
